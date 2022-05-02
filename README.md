@@ -19,4 +19,4 @@ Available features include:
 
 ## Example GUI 
 
-![alt text](https://github.com/mc-barbour/pydaq/daq_screenshot.png?raw=true)
+![gui-example](https://github.com/mc-barbour/pydaq/daq_screenshot.png?raw=true)
