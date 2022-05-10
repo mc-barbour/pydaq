@@ -15,7 +15,10 @@ Available features include:
 * data writing -> to text file
 * data plotting and averaging
 
+## Use of this repo
 
+* if making small modifications to a script, do so locally and do not push back.
+* if adding a new feature (eg: different inputs, types, etc.) create a new script file and push it back.
 
 ## Example GUI 
 
