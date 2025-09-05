@@ -418,7 +418,7 @@ class inputSettings(tk.LabelFrame):
             row=4, column=0, columnspan=2, sticky='w', padx=self.xPadding, pady=(10, 0))
 
         self.saveDirName = ttk.Entry(self)
-        self.saveDirName.insert(0, "C://Users/mbarb1/tmp/")
+        self.saveDirName.insert(0, "C://Users/mbarb1/pressure_can_data/")
         self.saveDirName.grid(row=5, column=0, columnspan=2, sticky="ew", padx=self.xPadding)
 
         self.startButton = ttk.Button(
